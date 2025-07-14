@@ -8,7 +8,7 @@ dotenv.config();
 // Defaults to Ollama qwen2.5:1.5b
 // https://ollama.com/library/qwen2.5
 export const modelName = process.env.MODEL_NAME_AT_ENDPOINT ?? "qwen2.5:1.5b";
-export const baseURL = process.env.API_BASE_URL ?? "http://127.0.0.1:11434/api";
+export const baseURL = process.env.API_BASE_URL ?? "https://5p9r6bnba2i4gkbrde59qtyti8qd7mtkkgrtycrp13bc.node.k8s.prd.nos.ci/";
 
 // Create and export the model instance
 export const model = createOllama({ baseURL }).chat(modelName, {
