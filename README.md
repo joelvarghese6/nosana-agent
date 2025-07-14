@@ -96,5 +96,5 @@ Visit [http://localhost:8080](http://localhost:8080) to interact with your agent
 
 ## 📹 Video Demo
 
-[🔗 Watch the Demo on YouTube](https://your-youtube-link.com)
+[🔗 Watch the Demo on Loom]([https://your-youtube-link.com](https://www.loom.com/share/4fd4dfafaf3c4089b42d786f36152c84?sid=e0aaf152-d97c-4e20-8e91-71a3690e8ed4))
 
